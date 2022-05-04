@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebServiceAula02</name>
+    </assembly>
+    <members>
+        <member name="M:WebServiceAula02.Controllers.DateController.DiferencaEntreDatas(System.String,System.String)">
+            <summary>
+            Data padrão Brasil 
+            </summary>
+        </member>
+        <member name="M:WebServiceAula02.Controllers.DateController.DiferencaEntreSemanas(System.String,System.String)">
+            <summary>
+            Data padrão Brasil 
+            </summary>
+        </member>
+        <member name="M:WebServiceAula02.Controllers.DateController.DiferencaEntreMeses(System.String,System.String)">
+            <summary>
+            Data padrão Brasil 
+            </summary>
+        </member>
+        <member name="M:WebServiceAula02.Controllers.MimiFicadorController.Mimificador(System.String)">
+            <summary>
+            Troca as vogais por I em qualquer texto 
+            </summary>
+        </member>
+        <member name="M:WebServiceAula02.Controllers.NumerosController.NumerosCrescente(System.String)">
+            <summary>
+            Ordena os números em ordem crescente 
+            </summary>
+        </member>
+        <member name="M:WebServiceAula02.Controllers.NumerosController.NumerosDecrescente(System.String)">
+            <summary>
+            Ordena os números em ordem decrescente 
+            </summary>
+        </member>
+        <member name="M:WebServiceAula02.Controllers.NumerosController.NumerosPares(System.String)">
+            <summary>
+            Identifica os números pares
+            </summary>
+        </member>
+    </members>
+</doc>
